@@ -14,13 +14,14 @@ A simple chat app built using Java in Android Studio. This app allows users to s
 - Basic chat functionality.
 
 ## Getting Started
-<!-- Open in Android Studio:
 
-Open the project in Android Studio.
+1. Open in Android Studio:
 
-Build and Run:
+  Open the project in Android Studio.
 
-Build and run the app on an emulator or a physical device. -->
+2. Build and Run:
+
+  Build and run the app on an emulator or a physical device.
 
 
 ## Usage
